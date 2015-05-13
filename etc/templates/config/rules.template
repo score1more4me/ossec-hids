@@ -60,6 +60,10 @@
     <include>openbsd_rules.xml</include>
     <include>clam_av_rules.xml</include>
     <include>dropbear_rules.xml</include>
+<<<<<<< HEAD
     <include>cisco-cx_rules.xml</include>
+=======
+    <include>sysmon_rules.xml</include>
+>>>>>>> 66b70094a49510b0a10609c08a2b37ff09058bf8
     <include>local_rules.xml</include>
   </rules>  
